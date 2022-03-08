@@ -72,6 +72,10 @@
             "filters":["filter_togetic"],
             "alarms":["alarm_telegram_togetic"]
         },
+        "rule_miniras":{
+            "filters":["filter_miniras"],
+            "alarms":["alarm_telegram_miniras"]
+        },
         "rule_0":{
             "filters":["filter_0"],
             "alarms":["alarm_telegram_0"]
