@@ -40,8 +40,8 @@
                 "max_iv":0,
                 "max_lvl":1
             },
-            "filter_96_98":{
-                "min_iv":95,
+            "filter_98":{
+                "min_iv":97,
                 "max_iv":98
             },
             "filter_0":{

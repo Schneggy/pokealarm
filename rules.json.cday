@@ -28,9 +28,9 @@
             "filters":["filter_extremely_high","filter_extremely_low"],
             "alarms":["alarm_telegram_extremists"]
         },
-        "rule_96_98":{
-            "filters":["filter_96_98"],
-            "alarms":["alarm_telegram_96_98"]
+        "rule_98":{
+            "filters":["filter_98"],
+            "alarms":["alarm_telegram_98"]
         },
         "rule_x-eira":{
             "filters":["filter_x-eira"],
